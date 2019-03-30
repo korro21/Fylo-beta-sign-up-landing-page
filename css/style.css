@@ -28,7 +28,7 @@ label {
   background-size: 30vw, 100%;
 }
 .right {
-  padding: 0px 47px;
+  padding: 0px 47px 30px;
 }
 header {
   padding: 46px 0 0;
@@ -99,7 +99,7 @@ footer {
   position: absolute;
   bottom: 0;
   left: 0;
-  padding: 10px 49px 30px;
+  padding: 10px 49px 15px;
   width: 100%;
   text-align: right;
 }
